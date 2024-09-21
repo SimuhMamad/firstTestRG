@@ -1,1 +1,3 @@
 # firstTestRG
+
+- ganti readme
